@@ -1,0 +1,36 @@
+.ant-modal {
+  width: 940px !important;
+}
+.ant-alert {
+  margin: 2px;
+  border-radius: 2px;
+}
+.ant-modal-content {
+  padding: 0 !important;
+  border-radius: 4px !important;
+}
+.modal-title {
+  margin: 0;
+  font-family: Roboto;
+  font-size: 16px;
+  padding: 24px;
+  background: white;
+  width: 100%;
+}
+.ant-modal-close-x {
+  font-size: 12px !important;
+  margin-top: 24px;
+}
+.ant-modal-close {
+  top: 5px !important;
+  width: 5px !important;
+}
+.ant-card {
+  margin: 4px;
+}
+.ant-modal-body {
+  background: #f6f6f6;
+}
+.ant-card-body {
+  padding: 5px !important;
+}
