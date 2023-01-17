@@ -29,6 +29,9 @@
 .ant-card {
   margin: 4px;
 }
+.score-details{
+  height: 96% !important;
+}
 .ant-modal-body {
   background: #f6f6f6;
 }

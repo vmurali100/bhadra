@@ -33,7 +33,7 @@ function App() {
 
         <Row>
           <Col span={12}>
-            <Card>
+            <Card className="score-details">
               <Arc />
             </Card>
           </Col>
