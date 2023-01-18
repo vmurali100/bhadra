@@ -1,8 +1,7 @@
 import "./App.css";
 import { Alert, Button, Card, Col, Modal, Row } from "antd";
 import { useState } from "react";
-import { Arc } from "./Score";
-
+import Arc from './Score'
 function App() {
   const [isModalOpen, setIsModalOpen] = useState(false);
 
